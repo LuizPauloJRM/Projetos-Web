@@ -60,7 +60,7 @@
                     <button type="submit" class="btn btn-primary">
                       Entrar
                     </button>
-                    <a id="recuperar-senha" href="#">Recuperar senha</a>
+                    <a id="recuperar-senha" href="#">Esqueceu a senha</a>
                   </div>
                 </form>
               </div>
